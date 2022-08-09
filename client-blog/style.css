@@ -1,0 +1,108 @@
+
+.button {
+  background-color: #ff0000;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h1{
+    border: 5px outset #ff0000;
+    background-color: #808080;    
+    text-align: center;
+  }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background-image: url("images/background-shoe.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
+
+  
+
+
+
+h1{
+    font-size: 50px;
+    color: #ffffff
+}
+
+
+h2{
+    font-size: 30px;
+    color: #ffffff
+}
+
+
+
+
+h3{
+    font-size: 30px;
+    color: #ffffff
+}
+
+
+p {
+    border: 5px outset red;
+    background-color: #808080;    
+    text-align: left; font-size: 20px;
+  }
+
+
+  .p {
+    ont-size: 30px;
+    color: #808080
+  }
+
+
+
+.footer{
+ background-color: #ff0000;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
+
+
+
